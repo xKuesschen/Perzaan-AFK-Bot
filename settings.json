@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "furpach.aternos.me",
-    "port": 59411,
-    "version": "26.2"
+    "ip": "example.aternos.me",
+    "port": 75375,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "DO",
-        "Mega kebap und grüner baum do!",
-        "Ich bin jz in Furpach ankomm"
+        "I'm a regular player",
+        "Subscribe to Perzaan Gaming!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -40,7 +40,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
